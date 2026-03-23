@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a0c7d4e-5dcb-4de3-a8c7-7544fa2b48b8": {
+      "ProjectGuid": "3a0c7d4e-5dcb-4de3-a8c7-7544fa2b48b8",
+      "DisplayName": "fruit_machineV1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

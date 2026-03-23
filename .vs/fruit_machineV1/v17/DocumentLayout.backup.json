@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pring\\OneDrive\\Documents\\South devon college work home computer\\Unit 1\\fruit_machineV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0C7D4E-5DCB-4DE3-A8C7-7544FA2B48B8}|fruit_machineV1\\fruit_machineV1.csproj|c:\\users\\pring\\onedrive\\documents\\south devon college work home computer\\unit 1\\fruit_machinev1\\fruit_machinev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0C7D4E-5DCB-4DE3-A8C7-7544FA2B48B8}|fruit_machineV1\\fruit_machineV1.csproj|solutionrelative:fruit_machinev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0C7D4E-5DCB-4DE3-A8C7-7544FA2B48B8}|fruit_machineV1\\fruit_machineV1.csproj|c:\\users\\pring\\onedrive\\documents\\south devon college work home computer\\unit 1\\fruit_machinev1\\fruit_machinev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A0C7D4E-5DCB-4DE3-A8C7-7544FA2B48B8}|fruit_machineV1\\fruit_machineV1.csproj|solutionrelative:fruit_machinev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pring\\OneDrive\\Documents\\South devon college work home computer\\Unit 1\\fruit_machineV1\\fruit_machineV1\\Form1.cs",
+              "RelativeDocumentMoniker": "fruit_machineV1\\Form1.cs",
+              "ToolTip": "C:\\Users\\pring\\OneDrive\\Documents\\South devon college work home computer\\Unit 1\\fruit_machineV1\\fruit_machineV1\\Form1.cs",
+              "RelativeToolTip": "fruit_machineV1\\Form1.cs",
+              "ViewState": "AgIAAH0CAAAAAAAAAAAAAJECAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-11T09:54:49.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pring\\OneDrive\\Documents\\South devon college work home computer\\Unit 1\\fruit_machineV1\\fruit_machineV1\\Form1.cs",
+              "RelativeDocumentMoniker": "fruit_machineV1\\Form1.cs",
+              "ToolTip": "C:\\Users\\pring\\OneDrive\\Documents\\South devon college work home computer\\Unit 1\\fruit_machineV1\\fruit_machineV1\\Form1.cs [Design]",
+              "RelativeToolTip": "fruit_machineV1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-11T09:54:49.271Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

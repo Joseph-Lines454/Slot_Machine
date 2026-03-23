@@ -1,0 +1,291 @@
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+N:\Documents\Code\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\Downloads\fruit_machineV2\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\Downloads\fruit_machineV3(1)\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV4\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\Downloads\fruit_machineV4V1\fruit_machineV4V1\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV5\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV6\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+F:\fruit_machineV8\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV9\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+F:\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV11\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Properties.Resources.resources
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Properties.Resources.resources
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\C practice\Slot_Machine_Work\fruit_machineV12\fruit_machineV10\fruit_machineV7\fruit_machineV3\fruit_machineV2\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.exe
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.deps.json
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.json
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.runtimeconfig.dev.json
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\bin\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.AssemblyReference.cache
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Form1.resources
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.Properties.Resources.resources
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.GenerateResource.cache
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfoInputs.cache
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.AssemblyInfo.cs
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.csproj.CoreCompileInputs.cache
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\ref\fruit_machineV1.dll
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.pdb
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\fruit_machineV1.genruntimeconfig.cache
+C:\Users\pring\OneDrive\Documents\South devon college work home computer\Unit 1\fruit_machineV1\fruit_machineV1\obj\Debug\net5.0-windows\refint\fruit_machineV1.dll
